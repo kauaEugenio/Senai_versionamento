@@ -1,0 +1,7 @@
+	´´LEIA-ME´´
+
+Projeto desenvolvido para estudo de versionamentois em TI 
+
+Por: Kauã Eugenio
+
+Data:05/05/2022 - Inicio e criação do projeto vesionamento,utilização do Git e Github
